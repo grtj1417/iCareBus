@@ -23,7 +23,7 @@ function App() {
         <div className="flex items-center justify-between">
           <Navbar fluid style={{ padding: 0, height: '60px', display: 'flex', alignItems: 'center' }}>
             <Navbar.Brand href="#">
-              <img src="public/images/logo.png" className="mr-2 h-6 sm:h-9" alt="Flowbite React Logo" />
+              <img src="../images/logo.png" className="mr-2 h-6 sm:h-9" alt="Flowbite React Logo" />
               <span className="self-center whitespace-nowrap text-xl sm:text-3xl font-bold dark:text-white">iCareBus</span>
             </Navbar.Brand>
             {/* <Navbar.Toggle /> */}

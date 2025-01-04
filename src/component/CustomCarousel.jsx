@@ -54,7 +54,7 @@ const CustomCarousel = () => {
         >
           {/* Slide 1 */}
           <img
-            src="public/images/1008808_0.jpg"
+            src="../../images/1008808_0.jpg"
             alt=""
             style={{
               borderRadius: "1rem",
@@ -73,7 +73,7 @@ const CustomCarousel = () => {
           }}
         >
           <img
-            src="public/images/1008807_0.jpg"
+            src="../../images/1008807_0.jpg"
             alt=""
             style={{
               borderRadius: "1rem",
